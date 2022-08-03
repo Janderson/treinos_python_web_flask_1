@@ -1,7 +1,7 @@
 ### O que é: 
 Treino de flask p/ web
-
-link: https://pymbook.readthedocs.io/en/latest/flask.html#using-arguments-in-flask
+origem: https://pymbook.readthedocs.io/en/latest/flask.html
+nível: iniciante
 
 
 ### Passos
